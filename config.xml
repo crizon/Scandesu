@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Barcode Scanner CRZN</name>
+    <description>
+        Malupet na programmer si crizon junior
+    </description>
+    <author email="crizon.jr@gmail.com" href="http://crzn.online">
+        CRZN
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
